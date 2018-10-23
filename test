@@ -1,1 +1,5 @@
 test
+-> install composer from https://getcomposer.org/download/
+-> download wp-cli.phar file & run using terminal "php wp-cli.phar"
+https://kinsta.com/blog/wp-cli/
+https://roots.io/bedrock/docs/installing-bedrock/
